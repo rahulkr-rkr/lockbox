@@ -1,0 +1,5 @@
+{
+  "IndexInText": "0",
+  "OcrConfidence": "1",
+  "Text": "ARJUN"
+}
